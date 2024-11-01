@@ -53,11 +53,6 @@ The following models were implemented and evaluated:
 - Python 3.x
 - Required libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`
 
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 To run the project, execute the following:
